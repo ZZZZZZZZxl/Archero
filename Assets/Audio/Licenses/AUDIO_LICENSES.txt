@@ -1,0 +1,21 @@
+﻿Audio licenses used in this project
+
+1. Kenney RPG Audio
+Source: https://kenney.nl/assets/rpg-audio
+License: Creative Commons CC0 1.0 Universal
+Used for: coin collect, door open
+
+2. Kenney Impact Sounds
+Source: https://kenney.nl/assets/impact-sounds
+License: Creative Commons CC0 1.0 Universal
+Used for: enemy hit, player hit
+
+3. Kenney Interface Sounds
+Source: https://kenney.nl/assets/interface-sounds
+License: Creative Commons CC0 1.0 Universal
+Used for: player shoot, UI click, room clear
+
+4. Children's March Theme by Cleyton Kauffman
+Source: https://opengameart.org/content/childrens-march-theme
+License: Creative Commons CC0 1.0 Universal
+Used for: casual background music

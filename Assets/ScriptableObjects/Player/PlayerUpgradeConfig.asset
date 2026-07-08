@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c2d18e64ef95e8489aaa9b190806e34, type: 3}
+  m_Name: PlayerUpgradeConfig
+  m_EditorClassIdentifier: 
+  _levelUpHealPercent: 0.1
+  _options:
+  - _type: 0
+    _title: "\u653B\u901F\u63D0\u5347"
+    _description: "\u653B\u51FB\u95F4\u9694\u7F29\u77ED 12%\uFF0C\u5C04\u7BAD\u52A8\u753B\u540C\u6B65\u52A0\u5FEB\u3002"
+    _amount: 0.12
+    _maxStacks: 8
+  - _type: 1
+    _title: "\u653B\u51FB\u5F3A\u5316"
+    _description: "\u653B\u51FB\u529B\u63D0\u9AD8 20%\u3002"
+    _amount: 0.2
+    _maxStacks: 10
+  - _type: 2
+    _title: "\u524D\u65B9\u989D\u5916\u7BAD"
+    _description: "\u6B63\u524D\u65B9\u989D\u5916\u53D1\u5C04 1 \u652F\u7BAD\u3002"
+    _amount: 1
+    _maxStacks: 3
+  - _type: 3
+    _title: "\u659C\u5411\u53CC\u7BAD"
+    _description: "\u5DE6\u53F3\u659C\u524D\u65B9\u5404\u989D\u5916\u53D1\u5C04 1
+      \u652F\u7BAD\u3002"
+    _amount: 1
+    _maxStacks: 2
+  - _type: 4
+    _title: "\u751F\u547D\u5F3A\u5316"
+    _description: "\u6700\u5927\u751F\u547D\u63D0\u9AD8 20\uFF0C\u5E76\u56DE\u590D\u540C\u7B49\u751F\u547D\u3002"
+    _amount: 20
+    _maxStacks: 10

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b0e8407b544ac9ad76557c02353e06, type: 3}
+  m_Name: RoomLevel_47
+  m_EditorClassIdentifier: 
+  _useRandomSeed: 0
+  _seed: 2739
+  _spawnAreaCenter: {x: 0, y: -1.2}
+  _spawnAreaSize: {x: 7.2, y: 8.5}
+  _spawnY: 0
+  _playerSafeRadius: 2.4
+  _defaultSpawnRadius: 1.05
+  _maxPlaceAttemptsPerObject: 180
+  _obstacles:
+  - _prefab: {fileID: 5927799258956335083, guid: 40ebaba8fa19f3047916fa1e61522684, type: 3}
+    _count: 4
+    _spawnRadius: 0.75
+    _randomYaw: 1
+  - _prefab: {fileID: 9094387156955181201, guid: 00af8018eb39655449246cae0a1e0df4, type: 3}
+    _count: 3
+    _spawnRadius: 0.75
+    _randomYaw: 1
+  - _prefab: {fileID: 3827078418044410214, guid: d4c617b5060d68342b680c9ddeb2a075, type: 3}
+    _count: 3
+    _spawnRadius: 0.95
+    _randomYaw: 1
+  _enemies:
+  - _prefab: {fileID: 4795951982114784657, guid: cf494c756a17d4a46b4e5137065438f1, type: 3}
+    _count: 1
+    _spawnRadius: 0.9
+    _randomYaw: 1
+  - _prefab: {fileID: 3288636710093343713, guid: 1cdd9196ecf4cdf468311ade0838e1cd, type: 3}
+    _count: 2
+    _spawnRadius: 0.9
+    _randomYaw: 1
+  - _prefab: {fileID: 4771649099910164058, guid: 8730d81a9e929bc4f8b1f45e128a5a31, type: 3}
+    _count: 3
+    _spawnRadius: 0.95
+    _randomYaw: 1
+  - _prefab: {fileID: 1505027344365671608, guid: 5bdca123cfccff344b9bd8c87db66e00, type: 3}
+    _count: 3
+    _spawnRadius: 0.9
+    _randomYaw: 1
+  - _prefab: {fileID: 7580292919105363295, guid: a4d07c77ff061b4498acca9d6fc0c742, type: 3}
+    _count: 1
+    _spawnRadius: 1.2
+    _randomYaw: 1
